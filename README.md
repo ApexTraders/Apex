@@ -49,7 +49,6 @@ Never sell early, Apex will follow price as high as it can and sells when it hit
 Trailing Buy
 Much the same to Trailing Stop Loss, Trailing Buy will follow price down before buying on the next significant rise.
 
-[size=15pt]Download Trial Version > [/size] 
 
 
 Support > support@apextrader.io
