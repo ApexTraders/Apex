@@ -1,4 +1,4 @@
-]Automated Crypto Trading
+Automated Crypto Trading
 
 
 
