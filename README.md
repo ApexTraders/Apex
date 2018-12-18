@@ -1,15 +1,13 @@
-[center][color=black][size=19pt]Automated Crypto Trading[/size][/color][/center]
+]Automated Crypto Trading
 
 
 
-[size=16pt]Trade your crypto assets on popular exchanges, with our configurable trading bot 24/7.[/size]
+Trade your crypto assets on popular exchanges, with our configurable trading bot 24/7.
 
 
-
-[color=black][center][size=19pt]Packed With Awesome Features
-To better understand Apex's offering check out the features under each tab.[/size][/center][/color]
-
-[size=16pt]THE CORE[/size]
+Packed With Awesome Features
+To better understand Apex's offering check out the features under each tab.
+THE CORE
 
 Highly Configurable
 Apex allows you to tune and configure your bot to behave just like you want it, all within a simple user interface.
@@ -29,8 +27,8 @@ Apex provides support to apply DCA strategies to positions.
 Realtime Trigger
 Apex's trigger system allows you to change the bots behaviour in realtime based on the performance of a coin.
 
-[size=16pt]STRATEGIZE
-[/size]
+STRATEGIZE
+
 
 
 Technical Analysis Indicators
